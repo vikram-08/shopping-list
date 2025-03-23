@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.udemy.shopping"
+    namespace = "com.example.shopping"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.udemy.shopping"
+        applicationId = "com.example.shopping"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

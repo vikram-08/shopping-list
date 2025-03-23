@@ -1,4 +1,4 @@
-package com.udemy.shopping
+package com.example.shopping
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.border

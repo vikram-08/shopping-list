@@ -1,4 +1,4 @@
-package com.udemy.shopping
+package com.example.shopping
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.udemy.shopping.ui.theme
+package com.example.shopping.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

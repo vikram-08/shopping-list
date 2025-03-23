@@ -1,4 +1,4 @@
-package com.udemy.shopping
+package com.example.shopping
 
 import org.junit.Test
 
